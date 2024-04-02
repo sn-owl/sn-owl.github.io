@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    /*
+    background-color:#202020;
+    color:white;*/
+}
+h1,h2{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+
+#sn-owl{ 
+    display:inline-block;/*자동줄바꿈끄기*/
+    margin:0 ;
+    text: size 50px;
+    font-size:20px;
+    margin-left:60px;
+    margin-right: 60px;
+   
+    
+}
+#top_side_view_grid{  
+    text-align: center;  
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, auto)); /* 열을 자동으로 조정 */
+    grid-template-rows: 1fr; /* 요소들이 같은 행에 존재하도록 함 */
+    border-bottom: 1px solid black;
+    margin: 0;
+    padding: 8px;
+}
+#mantine-Group-root{
+}
+
