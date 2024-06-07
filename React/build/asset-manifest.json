@@ -8,8 +8,5 @@
     "main.8bb2b4cf.js.map": "/React/static/js/main.8bb2b4cf.js.map",
     "453.ac79db8d.chunk.js.map": "/React/static/js/453.ac79db8d.chunk.js.map"
   },
-  "entrypoints": [
-    "static/css/main.4fec6163.css",
-    "static/js/main.8bb2b4cf.js"
-  ]
+  "entrypoints": ["static/css/main.4fec6163.css", "static/js/main.8bb2b4cf.js"]
 }
